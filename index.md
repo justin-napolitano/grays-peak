@@ -32,7 +32,7 @@ I borrowed an SUV. It was a doable drive.  I kept her in first gear and took it 
 
 ## The Trail Head
 
-The trail head is well marked. There is a beautiful bridge over a creek that is beautiful.  
+The trail head is well marked. There is a beautiful bridge over a creek.  
 
 
 ![bridge](./images/1000007000.jpg)

@@ -97,7 +97,7 @@ I also need to buy some level 4/5 pants. As in a pair of rain pants or gore tex 
 
 If I end up doing something more extreme I will also need to buy a pair of level 7 pants. As of now I am fine with my hiking pants with a level 2 and the down liner.
 
-## What Did I actually wear
+## What Did I Actually Wear
 
 I was okay in my level 1 and level 2 most of the time.. I added the level 4 at the peak and felt very cozy.  
 

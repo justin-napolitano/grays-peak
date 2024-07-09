@@ -4,7 +4,7 @@ description = "Treeking Gray's"
 author = "Justin Napolitano"
 tags = ["mountains"]
 images = ["images/feature-image.png"]
-categories = ['peaks']
+categories = ['adventures']
 date = "2024-07-08"
 +++
 

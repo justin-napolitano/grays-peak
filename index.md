@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - markdown documentation
   - trail conditions
 seoOptimized: true
+topicFamily: climbing
+topicFamilyConfidence: 1
+topicFamilyNotes: >-
+  The blog post is about documenting a hiking experience with detailed logistics, gear, trail
+  conditions, and future enhancements focused on the outdoor activity itself. The 'climbing' family
+  explicitly includes hiking, outdoor gear, and related documentation, matching the post perfectly.
 ---
 
 # Gray's Peak Documentation: Technical Overview
@@ -73,3 +79,4 @@ The repository is currently a static collection of notes. Potential enhancements
 - Conversion into a website or app for easier access and updates
 
 This documentation approach prioritizes clarity and utility, ensuring that technical details and experiential insights are preserved for future reference without unnecessary embellishment.
+

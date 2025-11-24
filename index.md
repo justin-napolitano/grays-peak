@@ -1,12 +1,26 @@
 ---
-slug: "github-grays-peak"
-title: "grays-peak"
-repo: "justin-napolitano/grays-peak"
-githubUrl: "https://github.com/justin-napolitano/grays-peak"
-generatedAt: "2025-11-23T09:04:49.605784Z"
-source: "github-auto"
+slug: github-grays-peak
+title: Gray's Peak Hike Documentation with Metadata and Trail Details
+repo: justin-napolitano/grays-peak
+githubUrl: https://github.com/justin-napolitano/grays-peak
+generatedAt: '2025-11-23T09:04:49.605784Z'
+source: github-auto
+summary: >-
+  Structured Markdown documentation of the Gray's Peak hike covering logistics, gear, trail
+  conditions, and future integration plans.
+tags:
+  - markdown
+  - hiking
+  - documentation
+  - metadata
+  - trail-planning
+seoPrimaryKeyword: gray's peak hike documentation
+seoSecondaryKeywords:
+  - hiking logistics
+  - markdown documentation
+  - trail conditions
+seoOptimized: true
 ---
-
 
 # Gray's Peak Documentation: Technical Overview
 

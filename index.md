@@ -1,31 +1,39 @@
 ---
 slug: github-grays-peak
-title: Gray's Peak Hike Documentation with Metadata and Trail Details
+title: 'Gray''s Peak Documentation: A Technical Overview'
 repo: justin-napolitano/grays-peak
 githubUrl: https://github.com/justin-napolitano/grays-peak
 generatedAt: '2025-11-23T09:04:49.605784Z'
 source: github-auto
 summary: >-
-  Structured Markdown documentation of the Gray's Peak hike covering logistics, gear, trail
-  conditions, and future integration plans.
+  Explore a structured documentation system for the Gray's Peak hike, covering
+  logistics, gear, and trail conditions.
 tags:
   - markdown
   - hiking
   - documentation
   - metadata
   - trail-planning
+  - hiking logistics
+  - static site generation
+  - content management
 seoPrimaryKeyword: gray's peak hike documentation
 seoSecondaryKeywords:
-  - hiking logistics
-  - markdown documentation
+  - hiking preparation
+  - gear recommendations
   - trail conditions
+  - metadata in markdown
+  - content structure for hikes
 seoOptimized: true
 topicFamily: climbing
 topicFamilyConfidence: 1
 topicFamilyNotes: >-
-  The blog post is about documenting a hiking experience with detailed logistics, gear, trail
-  conditions, and future enhancements focused on the outdoor activity itself. The 'climbing' family
-  explicitly includes hiking, outdoor gear, and related documentation, matching the post perfectly.
+  The blog post is about documenting a hiking experience with detailed
+  logistics, gear, trail conditions, and future enhancements focused on the
+  outdoor activity itself. The 'climbing' family explicitly includes hiking,
+  outdoor gear, and related documentation, matching the post perfectly.
+kind: project
+id: github-grays-peak
 ---
 
 # Gray's Peak Documentation: Technical Overview

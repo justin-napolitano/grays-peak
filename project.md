@@ -1,19 +1,27 @@
 ---
 slug: github-grays-peak
 id: github-grays-peak
-title: Gray's Peak
+title: Gray's Peak Hiking Documentation and Resources
 repo: justin-napolitano/grays-peak
 githubUrl: https://github.com/justin-napolitano/grays-peak
 generatedAt: '2025-11-24T21:35:02.455Z'
 source: github-auto
 summary: >-
-  This repository contains notes and documentation related to hiking Gray's
-  Peak, a relatively easy 14er located about an hour west of Denver. The content
-  includes trip details, gear lists, and trail observations.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore detailed notes, gear recommendations, and trail observations for
+  hiking Gray's Peak.
+tags:
+  - markdown
+  - hiking documentation
+  - gear recommendations
+  - static site
+seoPrimaryKeyword: gray's peak hiking documentation
+seoSecondaryKeywords:
+  - hiking gear list
+  - trail observations
+  - GPS track data
+  - hiking resources
+  - outdoor trip planning
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project

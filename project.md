@@ -7,20 +7,22 @@ githubUrl: https://github.com/justin-napolitano/grays-peak
 generatedAt: '2025-11-24T21:35:02.455Z'
 source: github-auto
 summary: >-
-  Explore detailed notes, gear recommendations, and trail observations for
-  hiking Gray's Peak.
+  Explore detailed hike notes, gear recommendations, and trail observations for
+  Gray's Peak.
 tags:
   - markdown
   - hiking documentation
   - gear recommendations
   - static site
+  - hiking
+  - documentation
 seoPrimaryKeyword: gray's peak hiking documentation
 seoSecondaryKeywords:
-  - hiking gear list
+  - hiking notes
+  - gear list
   - trail observations
   - GPS track data
   - hiking resources
-  - outdoor trip planning
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null

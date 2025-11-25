@@ -6,9 +6,7 @@ repo: justin-napolitano/grays-peak
 githubUrl: https://github.com/justin-napolitano/grays-peak
 generatedAt: '2025-11-24T21:35:02.455Z'
 source: github-auto
-summary: >-
-  Explore detailed hike notes, gear recommendations, and trail observations for
-  Gray's Peak.
+summary: Explore detailed hike notes, gear recommendations, and trail observations for Gray's Peak.
 tags:
   - markdown
   - hiking documentation
@@ -24,8 +22,8 @@ seoSecondaryKeywords:
   - GPS track data
   - hiking resources
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: climbing
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -72,4 +70,5 @@ Open `index.md` in a Markdown viewer or editor to read the hike notes.
 - Include additional hikes and trail comparisons
 - Enhance gear list with detailed packing advice
 - Convert notes into a more interactive format or website
+
 
